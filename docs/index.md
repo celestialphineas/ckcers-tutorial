@@ -1,17 +1,136 @@
-# 关于 hello
+# 关于本文档
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+本文档系浙江大学竺可桢学院院刊《竺院人》杂志工作资料整理。
 
-## Commands
+## 为什么写这篇文档
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## 如何阅读本文档
 
-## Project layout
+（待补全）
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 写作计划
+
+### 美编部分
+
+#### 为什么要做这项工作？
+
+#### 《竺院人》杂志规范
+
+#### 纸张与排版，概念和度量
+
+#### 桌面排版中的信息处理
+
+* [ ] 历史与软件
+* [ ] 图形与图像
+* [ ] 文字编码与字体
+    * [ ] ……
+    * [ ] 字体的来历
+
+#### 印刷常识
+
+按照在杂志工作中的重要程度：
+
+* [ ] 色彩
+
+    色彩空间，复色黑与黑的区别
+
+* [ ] 印刷
+
+    从雕版到活字，凸版、平板印刷……
+
+* [ ] 出血与剪裁
+
+* [ ] 纸
+
+    种类、尺寸、规格
+
+* [ ] 装订
+
+#### 布局
+
+* [ ] 间距与分栏
+
+    栏宽、字数与易读性的关系
+    
+    留白
+
+* [ ] 网格系统
+
+    特别注意置入色块中的文字
+
+#### 文字设计基础篇
+
+* [ ] 基本概念
+
+    直排、横排
+
+    字体大小、字重、斜体
+
+    行距、行高、行间距
+
+    缩进、悬挂、段间距、对齐
+
+#### 文字设计高级篇
+
+* [ ] 更多概念
+
+    中文网格、西文基线、替换字、语言
+
+* [ ] 微观排印 (Micro-typography)
+
+    字间距、标点挤压、缩进悬挂、表意字空格……
+
+    语文规范
+
+* [ ] 技术话题
+
+    段落书写器
+
+#### 字体基础
+
+* [ ] 戒律
+
+    为什么不标新立异
+
+    字体设计应用于某种语言的文字
+
+    不同设计用途：正文用、标题用、印刷用、屏显用
+
+    字体的设计质量
+
+* [ ] 中文字体基础
+
+    宋黑仿楷，四大家族
+
+    再谈字重，粗与伪粗
+
+    ……
+
+* [ ] 西文字体基础
+
+#### 西文排印专题
+
+* [ ] 语言与段落书写器设置
+
+* [ ] 语言文字规范
+
+* [ ] 西文微观排印
+
+小型大写、斜体、花笔字、连字、老式数字、Optical size 的概念与使用
+
+## 贡献者
+
+* [Celestial Phineas](http://celestialphineas.github.io)
+
+
+## 贡献此文档
+
+本文档使用 [MkDocs](http://www.mkdocs.org/) 生成页面，故文档的原文件都是 [Markdown](https://en.wikipedia.org/wiki/Markdown) 格式的。Markdown 并不难学，笔者希望贡献者采用同样的工作流程和写作方式。
+
+如果你是我们工作室的一员，希望进一步完善此文档，请访问[本文档的 GitHub 仓库](https://github.com/celestialphineas/ckcers-tutorial)，[fork](https://help.github.com/articles/fork-a-repo/) 一份当前的文档，加以修改之后，给 [Celestial Phineas](https://github.com/celesitalphineas)（来自2015级混合班）[pull request](https://help.github.com/articles/about-pull-requests/)。我会去检查新的内容并进行发布。
+
+如果不熟悉 GitHub 的工作方式，也可以通过各种渠道联系到笔者，告诉我你的贡献。相对长久的联系方式是笔者的邮箱：
+
+```
+CELESTIALPHINEAS [AT] OUTLOOK [DOT] COM
+```
