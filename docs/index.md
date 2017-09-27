@@ -30,37 +30,37 @@
 
 按照在杂志工作中的重要程度：
 
-* [ ] 色彩
+- [ ] 色彩
 
     色彩空间，复色黑与黑的区别
 
-* [ ] 印刷
+- [ ] 印刷
 
     从雕版到活字，凸版、平板印刷……
 
-* [ ] 出血与剪裁
+- [ ] 出血与剪裁
 
-* [ ] 纸
+- [ ] 纸
 
     种类、尺寸、规格
 
-* [ ] 装订
+- [ ] 装订
 
 #### 布局
 
-* [ ] 间距与分栏
+- [ ] 间距与分栏
 
     栏宽、字数与易读性的关系
-    
+
     留白
 
-* [ ] 网格系统
+- [ ] 网格系统
 
     特别注意置入色块中的文字
 
 #### 文字设计基础篇
 
-* [ ] 基本概念
+- [ ] 基本概念
 
     直排、横排
 
@@ -72,23 +72,23 @@
 
 #### 文字设计高级篇
 
-* [ ] 更多概念
+- [ ] 更多概念
 
     中文网格、西文基线、替换字、语言
 
-* [ ] 微观排印 (Micro-typography)
+- [ ] 微观排印 (Micro-typography)
 
     字间距、标点挤压、缩进悬挂、表意字空格……
 
     语文规范
 
-* [ ] 技术话题
+- [ ] 技术话题
 
     段落书写器
 
 #### 字体基础
 
-* [ ] 戒律
+- [ ] 戒律
 
     为什么不标新立异
 
@@ -98,7 +98,7 @@
 
     字体的设计质量
 
-* [ ] 中文字体基础
+- [ ] 中文字体基础
 
     宋黑仿楷，四大家族
 
@@ -106,7 +106,7 @@
 
     ……
 
-* [ ] 西文字体基础
+- [ ] 西文字体基础
 
 #### 西文排印专题
 
@@ -127,7 +127,7 @@
 
 本文档使用 [MkDocs](http://www.mkdocs.org/) 生成页面，故文档的原文件都是 [Markdown](https://en.wikipedia.org/wiki/Markdown) 格式的。Markdown 并不难学，笔者希望贡献者采用同样的工作流程和写作方式。
 
-如果你是我们工作室的一员，希望进一步完善此文档，请访问[本文档的 GitHub 仓库](https://github.com/celestialphineas/ckcers-tutorial)，[fork](https://help.github.com/articles/fork-a-repo/) 一份当前的文档，加以修改之后，给 [Celestial Phineas](https://github.com/celesitalphineas)（来自2015级混合班）[pull request](https://help.github.com/articles/about-pull-requests/)。我会去检查新的内容并进行发布。
+如果你是我们工作室的一员，希望进一步完善此文档，请访问[本文档的 GitHub 仓库](https://github.com/celestialphineas/ckcers-tutorial)，[fork](https://help.github.com/articles/fork-a-repo/) 一份当前的文档，加以修改之后，给 [Celestial Phineas](https://github.com/celestialphineas)（来自2015级混合班）[pull request](https://help.github.com/articles/about-pull-requests/)。我会去检查新的内容并进行发布。
 
 如果不熟悉 GitHub 的工作方式，也可以通过各种渠道联系到笔者，告诉我你的贡献。相对长久的联系方式是笔者的邮箱：
 

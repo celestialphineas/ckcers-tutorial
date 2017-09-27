@@ -4,6 +4,7 @@ site_author: 'Celestial Phineas'
 copyright: 'Copyright &copy; 2017 CKCers Magazine Team'
 pages:
   - 主页: index.md
+  - 理解排版: 01-understanding-typesetting.md
   - 旧文章: 
     - 《竺院人》杂志内训参考资料01——基础知识: old-articles/training-01.md
     - 《竺院人》杂志内训参考资料02——杂志排版基础: old-articles/training-02.md
