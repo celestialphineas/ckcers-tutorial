@@ -4,7 +4,15 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2017-07-03</lastmod>
+     <lastmod>2017-09-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/01-understanding-typesetting/</loc>
+     <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,37 +21,37 @@
         
     <url>
      <loc>/old-articles/training-01/</loc>
-     <lastmod>2017-07-03</lastmod>
+     <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/old-articles/training-02/</loc>
-     <lastmod>2017-07-03</lastmod>
+     <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/old-articles/training-03/</loc>
-     <lastmod>2017-07-03</lastmod>
+     <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/old-articles/training-04/</loc>
-     <lastmod>2017-07-03</lastmod>
+     <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/old-articles/training-05/</loc>
-     <lastmod>2017-07-03</lastmod>
+     <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/old-articles/microsoft-yahei/</loc>
-     <lastmod>2017-07-03</lastmod>
+     <lastmod>2017-09-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
