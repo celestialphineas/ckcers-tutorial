@@ -13,6 +13,7 @@ pages:
   - 主页: index.md
   - 理解排版: 01-understanding-typesetting.md
   - 需要知道的一点印刷: 02-printing.md
+  - 需要知道的一点字体设计: 03-type-design.md
 theme: 'material'
 extra:
   palette:
