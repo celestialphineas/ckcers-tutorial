@@ -517,7 +517,7 @@
         },
         {
             "location": "/",
-            "text": "关于本文档\n¶\n\n\n本文档系浙江大学竺可桢学院院刊《竺院人》杂志工作资料整理。\n\n\n为什么写这篇文档\n¶\n\n\n如何阅读本文档\n¶\n\n\n（待补全）\n\n\n写作计划\n¶\n\n\n美编部分\n¶\n\n\n为什么要做这项工作？\n¶\n\n\n《竺院人》杂志规范\n¶\n\n\n纸张与排版，概念和度量\n¶\n\n\n桌面排版中的信息处理\n¶\n\n\n\n\n 历史与软件\n\n\n 图形与图像\n\n\n 文字编码与字体\n\n\n ……\n\n\n 字体的来历\n\n\n\n\n\n\n\n\n印刷常识\n¶\n\n\n按照在杂志工作中的重要程度：\n\n\n\n\n\n\n 色彩\n\n\n色彩空间，复色黑与黑的区别\n\n\n\n\n\n\n 印刷\n\n\n从雕版到活字，凸版、平板印刷……\n\n\n\n\n\n\n 出血与剪裁\n\n\n\n\n\n\n 纸\n\n\n种类、尺寸、规格\n\n\n\n\n\n\n 装订\n\n\n\n\n\n\n布局\n¶\n\n\n\n\n\n\n 间距与分栏\n\n\n栏宽、字数与易读性的关系\n\n\n留白\n\n\n\n\n\n\n 网格系统\n\n\n特别注意置入色块中的文字\n\n\n\n\n\n\n文字设计基础篇\n¶\n\n\n\n\n\n\n 基本概念\n\n\n直排、横排\n\n\n字体大小、字重、斜体\n\n\n行距、行高、行间距\n\n\n缩进、悬挂、段间距、对齐\n\n\n\n\n\n\n文字设计高级篇\n¶\n\n\n\n\n\n\n 更多概念\n\n\n中文网格、西文基线、替换字、语言\n\n\n\n\n\n\n 微观排印 (Micro-typography)\n\n\n字间距、标点挤压、缩进悬挂、表意字空格……\n\n\n语文规范\n\n\n\n\n\n\n 技术话题\n\n\n段落书写器\n\n\n\n\n\n\n字体基础\n¶\n\n\n\n\n\n\n 戒律\n\n\n为什么不标新立异\n\n\n字体设计应用于某种语言的文字\n\n\n不同设计用途：正文用、标题用、印刷用、屏显用\n\n\n字体的设计质量\n\n\n\n\n\n\n 中文字体基础\n\n\n宋黑仿楷，四大家族\n\n\n再谈字重，粗与伪粗\n\n\n……\n\n\n\n\n\n\n 西文字体基础\n\n\n\n\n\n\n西文排印专题\n¶\n\n\n\n\n\n\n 语言与段落书写器设置\n\n\n\n\n\n\n 语言文字规范\n\n\n\n\n\n\n 西文微观排印\n\n\n\n\n\n\n小型大写、斜体、花笔字、连字、老式数字、Optical size 的概念与使用\n\n\n贡献者\n¶\n\n\n\n\nCelestial Phineas\n\n\n\n\n贡献此文档\n¶\n\n\n本文档使用 \nMkDocs\n 生成页面，故文档的原文件都是 \nMarkdown\n 格式的。Markdown 并不难学，笔者希望贡献者采用同样的工作流程和写作方式。\n\n\n如果你是我们工作室的一员，希望进一步完善此文档，请访问\n本文档的 GitHub 仓库\n，\nfork\n 一份当前的文档，加以修改之后，给 \nCelestial Phineas\n（来自2015级混合班）\npull request\n。我会去检查新的内容并进行发布。\n\n\n如果不熟悉 GitHub 的工作方式，也可以通过各种渠道联系到笔者，告诉我你的贡献。相对长久的联系方式是笔者的邮箱：\n\n\nCELESTIALPHINEAS [AT] OUTLOOK [DOT] COM",
+            "text": "关于本文档\n¶\n\n\n本文档系浙江大学竺可桢学院院刊《竺院人》杂志工作资料整理。\n\n\n为什么写这篇文档\n¶\n\n\n旨在分享和交流在《竺院人》杂志的工作经验。\n\n\n如何阅读本文档\n¶\n\n\n关于 InDesign 的基本使用请移步\n旧文章\n。\n\n\n新文章中主要介绍了基本概念。关于技术问题，请参看Adobe InDesign的\n官方文档\n。\n\n\n暂缺的内容\n¶\n\n\n有些内容并没有撰写文章，然而这些内容很重要。这些内容包括：\n\n\n\n\n字符的语言设置\n\n\n书写器的设置\n\n\n文本对齐到基线网格的设置\n\n\n一些介绍到的排版具体实现\n\n\n印前制作\n\n\n\n\n这些内容推荐参看 Adobe 的\n官方文档\n。\n\n\n书单\n¶\n\n\n技术书籍\n¶\n\n\n\n\n\n\n\n\n书籍\n\n\n\n\n\n\n\n\n\n\n\n\n《Adobe InDesign 标准培训教程》\n\n\n\n\n\n\n\n\n《Adobe Photoshop 标准培训教程》\n\n\n\n\n\n\n\n\n《Adobe Illustrator 标准培训教程》\n\n\n\n\n\n\n\n\n\n\n版面设计\n¶\n\n\n\n\n\n\n\n\n书籍\n\n\n作者\n\n\n\n\n\n\n\n\n\n\n《平面设计中的网格系统》\n\n\n【瑞士】约瑟夫·米勒 - 布罗克曼\n\n\n\n\n\n\n版面设计/版式设计/版面构成/平面构成\n\n\n国内或日本的相关教材或参考书籍\n\n\n\n\n\n\n\n\n欢迎补充。\n\n\n排版入门\n¶\n\n\n\n\n\n\n\n\n书籍\n\n\n作者\n\n\n\n\n\n\n\n\n\n\n《字体设计艺术——西文字体排印五讲》\n\n\n【美】吉姆·克劳斯\n\n\n\n\n\n\n\n\n排版进阶\n¶\n\n\n\n\n\n\n\n\n书籍\n\n\n作者\n\n\n\n\n\n\n\n\n\n\n《西文排版》\n\n\n【日】高冈 昌生\n\n\n\n\n\n\n中文排版需求\n\n\nW3C 相关兴趣组的草案\n\n\n\n\n\n\n\n\n字体相关\n¶\n\n\n西文字体\n¶\n\n\n\n\n\n\n\n\n书籍\n\n\n作者\n\n\n\n\n\n\n\n\n\n\n《西文字体》\n\n\n【日】小林 章\n\n\n\n\n\n\n《西文字体 2》\n\n\n【日】小林 章\n\n\n\n\n\n\n《西文书法的艺术》\n\n\n【英】大卫·哈里斯\n\n\n\n\n\n\n《字体故事：西文字体的美丽传奇》\n\n\n【英】西蒙·加菲尔德\n\n\n\n\n\n\n《西文字体的故事》\n\n\n厉致谦\n\n\n\n\n\n\n\n\n中文字体\n¶\n\n\n\n\n\n\n\n\n书籍\n\n\n作者\n\n\n\n\n\n\n\n\n\n\n《1949年后 中国字体设计人：一字一生》\n\n\n廖洁连\n\n\n\n\n\n\n《字体设计》\n\n\n余秉楠\n\n\n\n\n\n\n字体厂商的产品手册\n\n\n方正/汉仪\n\n\n\n\n\n\n《字誌》杂志\n\n\n\n\n\n\n\n\n\n\n网站\n¶\n\n\n\n\nType is Beautiful\n\n\n设计交流网站，如站酷\n\n\n图片社交网站：\n堆糖\n、\n花瓣\n、\nPinterest\n\n\n作品集网站：\nBehance\n、\nDribbble\n、\nDeviantArt\n\n\n知乎的平面设计、字体话题\n\n\n\n\n网站文章\n¶\n\n\n\n\n活字字体的基础讲座\n，【日】今田 欣一\n\n\n徐学成的故事\n，访谈，新中国活字设计的渊源\n\n\n\n\n贡献者\n¶\n\n\n\n\nCelestial Phineas\n\n\n\n\n贡献此文档\n¶\n\n\n本文档使用 \nMkDocs\n 生成页面，故文档的原文件都是 \nMarkdown\n 格式的。Markdown 并不难学，笔者希望贡献者采用同样的工作流程和写作方式。\n\n\n如果你是我们工作室的一员，希望进一步完善此文档，请访问\n本文档的 GitHub 仓库\n，\nfork\n 一份当前的文档，加以修改之后，给 \nCelestial Phineas\n（来自2015级混合班）\npull request\n。我会去检查新的内容并进行发布。\n\n\n如果不熟悉 GitHub 的工作方式，也可以通过各种渠道联系到笔者，告诉我你的贡献。相对长久的联系方式是笔者的邮箱：\n\n\nCELESTIALPHINEAS [AT] OUTLOOK [DOT] COM",
             "title": "主页"
         },
         {
@@ -527,83 +527,88 @@
         },
         {
             "location": "/#_2",
-            "text": "",
+            "text": "旨在分享和交流在《竺院人》杂志的工作经验。",
             "title": "为什么写这篇文档"
         },
         {
             "location": "/#_3",
-            "text": "（待补全）",
+            "text": "关于 InDesign 的基本使用请移步 旧文章 。  新文章中主要介绍了基本概念。关于技术问题，请参看Adobe InDesign的 官方文档 。",
             "title": "如何阅读本文档"
         },
         {
             "location": "/#_4",
-            "text": "",
-            "title": "写作计划"
+            "text": "有些内容并没有撰写文章，然而这些内容很重要。这些内容包括：   字符的语言设置  书写器的设置  文本对齐到基线网格的设置  一些介绍到的排版具体实现  印前制作   这些内容推荐参看 Adobe 的 官方文档 。",
+            "title": "暂缺的内容"
         },
         {
             "location": "/#_5",
             "text": "",
-            "title": "美编部分"
+            "title": "书单"
         },
         {
             "location": "/#_6",
-            "text": "",
-            "title": "为什么要做这项工作？"
+            "text": "书籍       《Adobe InDesign 标准培训教程》     《Adobe Photoshop 标准培训教程》     《Adobe Illustrator 标准培训教程》",
+            "title": "技术书籍"
         },
         {
             "location": "/#_7",
-            "text": "",
-            "title": "《竺院人》杂志规范"
+            "text": "书籍  作者      《平面设计中的网格系统》  【瑞士】约瑟夫·米勒 - 布罗克曼    版面设计/版式设计/版面构成/平面构成  国内或日本的相关教材或参考书籍     欢迎补充。",
+            "title": "版面设计"
         },
         {
             "location": "/#_8",
-            "text": "",
-            "title": "纸张与排版，概念和度量"
+            "text": "书籍  作者      《字体设计艺术——西文字体排印五讲》  【美】吉姆·克劳斯",
+            "title": "排版入门"
         },
         {
             "location": "/#_9",
-            "text": "历史与软件   图形与图像   文字编码与字体   ……   字体的来历",
-            "title": "桌面排版中的信息处理"
+            "text": "书籍  作者      《西文排版》  【日】高冈 昌生    中文排版需求  W3C 相关兴趣组的草案",
+            "title": "排版进阶"
         },
         {
             "location": "/#_10",
-            "text": "按照在杂志工作中的重要程度：     色彩  色彩空间，复色黑与黑的区别     印刷  从雕版到活字，凸版、平板印刷……     出血与剪裁     纸  种类、尺寸、规格     装订",
-            "title": "印刷常识"
+            "text": "",
+            "title": "字体相关"
         },
         {
             "location": "/#_11",
-            "text": "间距与分栏  栏宽、字数与易读性的关系  留白     网格系统  特别注意置入色块中的文字",
-            "title": "布局"
+            "text": "书籍  作者      《西文字体》  【日】小林 章    《西文字体 2》  【日】小林 章    《西文书法的艺术》  【英】大卫·哈里斯    《字体故事：西文字体的美丽传奇》  【英】西蒙·加菲尔德    《西文字体的故事》  厉致谦",
+            "title": "西文字体"
         },
         {
             "location": "/#_12",
-            "text": "基本概念  直排、横排  字体大小、字重、斜体  行距、行高、行间距  缩进、悬挂、段间距、对齐",
-            "title": "文字设计基础篇"
+            "text": "书籍  作者      《1949年后 中国字体设计人：一字一生》  廖洁连    《字体设计》  余秉楠    字体厂商的产品手册  方正/汉仪    《字誌》杂志",
+            "title": "中文字体"
         },
         {
             "location": "/#_13",
-            "text": "更多概念  中文网格、西文基线、替换字、语言     微观排印 (Micro-typography)  字间距、标点挤压、缩进悬挂、表意字空格……  语文规范     技术话题  段落书写器",
-            "title": "文字设计高级篇"
+            "text": "Type is Beautiful  设计交流网站，如站酷  图片社交网站： 堆糖 、 花瓣 、 Pinterest  作品集网站： Behance 、 Dribbble 、 DeviantArt  知乎的平面设计、字体话题",
+            "title": "网站"
         },
         {
             "location": "/#_14",
-            "text": "戒律  为什么不标新立异  字体设计应用于某种语言的文字  不同设计用途：正文用、标题用、印刷用、屏显用  字体的设计质量     中文字体基础  宋黑仿楷，四大家族  再谈字重，粗与伪粗  ……     西文字体基础",
-            "title": "字体基础"
+            "text": "活字字体的基础讲座 ，【日】今田 欣一  徐学成的故事 ，访谈，新中国活字设计的渊源",
+            "title": "网站文章"
         },
         {
             "location": "/#_15",
-            "text": "语言与段落书写器设置     语言文字规范     西文微观排印    小型大写、斜体、花笔字、连字、老式数字、Optical size 的概念与使用",
-            "title": "西文排印专题"
-        },
-        {
-            "location": "/#_16",
             "text": "Celestial Phineas",
             "title": "贡献者"
         },
         {
-            "location": "/#_17",
+            "location": "/#_16",
             "text": "本文档使用  MkDocs  生成页面，故文档的原文件都是  Markdown  格式的。Markdown 并不难学，笔者希望贡献者采用同样的工作流程和写作方式。  如果你是我们工作室的一员，希望进一步完善此文档，请访问 本文档的 GitHub 仓库 ， fork  一份当前的文档，加以修改之后，给  Celestial Phineas （来自2015级混合班） pull request 。我会去检查新的内容并进行发布。  如果不熟悉 GitHub 的工作方式，也可以通过各种渠道联系到笔者，告诉我你的贡献。相对长久的联系方式是笔者的邮箱：  CELESTIALPHINEAS [AT] OUTLOOK [DOT] COM",
             "title": "贡献此文档"
+        },
+        {
+            "location": "/00-basis/",
+            "text": "黑白之间\n¶\n\n\nPDF 下载地址",
+            "title": "黑白之间——基础知识"
+        },
+        {
+            "location": "/00-basis/#_1",
+            "text": "PDF 下载地址",
+            "title": "黑白之间"
         },
         {
             "location": "/01-understanding-typesetting/",
