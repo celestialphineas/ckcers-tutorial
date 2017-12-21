@@ -1,4 +1,7 @@
 
+
+
+
 <!DOCTYPE html>
 <html lang="zh" class="no-js">
   <head>
@@ -14,9 +17,22 @@
         <meta name="author" content="Celestial Phineas">
       
       
-        <link rel="shortcut icon" href="../assets/images/favicon.png">
+        <meta name="lang:clipboard.copy" content="复制">
       
-      <meta name="generator" content="mkdocs-0.16.3, mkdocs-material-1.7.4">
+        <meta name="lang:clipboard.copied" content="已复制">
+      
+        <meta name="lang:search.language" content="en, jp">
+      
+        <meta name="lang:search.result.none" content="没有找到符合条件的结果">
+      
+        <meta name="lang:search.result.one" content="找到 1 个符合条件的结果">
+      
+        <meta name="lang:search.result.other" content="# 个符合条件的结果">
+      
+        <meta name="lang:search.tokenizer" content="[\uff0c\u3002]+">
+      
+      <link rel="shortcut icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-0.17.2, mkdocs-material-2.2.5">
     
     
       
@@ -24,21 +40,18 @@
       
     
     
-      <script src="../assets/javascripts/modernizr-1df76c4e58.js"></script>
-    
-    
-      <link rel="stylesheet" href="../assets/stylesheets/application-769c285a91.css">
+      <link rel="stylesheet" href="../assets/stylesheets/application.bcabdff3.css">
       
-        <link rel="stylesheet" href="../assets/stylesheets/application-02c2a4388f.palette.css">
+        <link rel="stylesheet" href="../assets/stylesheets/application-palette.792431c1.css">
       
     
     
+      <script src="../assets/javascripts/modernizr.1aa3b519.js"></script>
+    
+    
       
-        
-        
-        
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
-        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,思源黑体,Noto Sans CJK,Noto Sans CJK SC,Source Han Sans,Source Han Sans SC,华文细黑,微软雅黑,sans-serif}code,kbd,pre{font-family:"","Courier New",Courier,monospace}</style>
       
       <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     
@@ -46,10 +59,11 @@
     
   </head>
   
-  
-  
-  
-    <body data-md-color-primary="red" data-md-color-accent="red">
+    
+    
+    
+      <body data-md-color-primary="red" data-md-color-accent="red">
+    
   
     <svg class="md-svg">
       <defs>
@@ -65,41 +79,47 @@
   <nav class="md-header-nav md-grid">
     <div class="md-flex">
       <div class="md-flex__cell md-flex__cell--shrink">
-        
-          <a href="../old-articles/training-01/" title="《竺院人》杂志工作文档" class="md-icon md-icon--home md-header-nav__button">
-          </a>
-        
+        <a href="../old-articles/training-01/" title="《竺院人》杂志工作文档" class="md-header-nav__button md-logo">
+          
+            <i class="md-icon"></i>
+          
+        </a>
       </div>
       <div class="md-flex__cell md-flex__cell--shrink">
         <label class="md-icon md-icon--menu md-header-nav__button" for="drawer"></label>
       </div>
       <div class="md-flex__cell md-flex__cell--stretch">
-        <span class="md-flex__ellipsis md-header-nav__title">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
           
             
-              
+              <span class="md-header-nav__topic">
+                《竺院人》杂志工作文档
+              </span>
+              <span class="md-header-nav__topic">
+                需要知道的一点印刷
+              </span>
             
-            需要知道的一点印刷
           
-        </span>
+        </div>
       </div>
       <div class="md-flex__cell md-flex__cell--shrink">
         
-          <label class="md-icon md-icon--search md-header-nav__button" for="search"></label>
           
-<div class="md-search" data-md-component="search">
+            <label class="md-icon md-icon--search md-header-nav__button" for="search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="search"></label>
   <div class="md-search__inner">
     <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" required placeholder="Search" accesskey="s" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query">
+      <input type="text" class="md-search__input" name="query" required placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query">
       <label class="md-icon md-search__icon" for="search"></label>
-      <button type="reset" class="md-icon md-search__icon" data-md-component="reset">close</button>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset">&#xE5CD;</button>
     </form>
     <div class="md-search__output">
       <div class="md-search__scrollwrap" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="result" data-md-lang-search="jp, en">
-          <div class="md-search-result__meta" data-md-lang-result-none="无匹配文档" data-md-lang-result-one="只找到一个匹配文档" data-md-lang-result-other="共找到 # 个搜索结果">
-            搜索…
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            键入以开始搜索
           </div>
           <ol class="md-search-result__list"></ol>
         </div>
@@ -107,6 +127,7 @@
     </div>
   </div>
 </div>
+          
         
       </div>
       
@@ -115,6 +136,8 @@
 </header>
     
     <div class="md-container">
+      
+        
       
       
       <main class="md-main">
@@ -126,9 +149,11 @@
                   <div class="md-sidebar__inner">
                     <nav class="md-nav md-nav--primary" data-md-level="0">
   <label class="md-nav__title md-nav__title--site" for="drawer">
-    
-      <i class="md-icon md-icon--home md-nav__button"></i>
-    
+    <span class="md-nav__button md-logo">
+      
+        <i class="md-icon"></i>
+      
+    </span>
     《竺院人》杂志工作文档
   </label>
   
@@ -569,7 +594,7 @@
 <h2 id="_2">纸<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
 <h3 id="_3">大小<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h3>
 <p>这个网站中的纸张尺寸相当全面：<a href="http://papersizes.io/">PaperSizes</a></p>
-<p>A0 纸张满足面积为 1 ㎡、长宽比为 <span>\(\sqrt2\)</span> ，由此产生了 A 系列纸张，A 后面的数字表示对折裁切的次数。类似地，开数是系列后数字的 <span>\(2^n\)</span>，比如 16 开与国际标准 A4 相当。</p>
+<p>A0 纸张满足面积为 1 ㎡、长宽比为 <span><span class="MathJax_Preview">\sqrt2</span><script type="math/tex">\sqrt2</script></span> ，由此产生了 A 系列纸张，A 后面的数字表示对折裁切的次数。类似地，开数是系列后数字的 <span><span class="MathJax_Preview">2^n</span><script type="math/tex">2^n</script></span>，比如 16 开与国际标准 A4 相当。</p>
 <p>日常所说的十六开纸张有正度十六开（185 mm × 260 mm），也有大度十六开（210 mm × 285 mm）。前者即国标 D 系列 D4 (188 mm × 260 mm)，后者近乎国际标准 A 系列 A4 (210 mm × 297 mm)。笔者未能够查到大度十六开比 A4 短的原因，但这一约定在印刷业是常见的（如果你找到了原因，请告诉我）。</p>
 <h3 id="_4">质地与类型<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h3>
 <p>纸张的克数 (grammage) 是按照每平方米的重量来衡量的，纸张的克数反应了纸的厚度与质地。</p>
@@ -582,7 +607,7 @@
 <h4 id="rgb">RGB<a class="headerlink" href="#rgb" title="Permanent link">&para;</a></h4>
 <p>RGB (Red, Green, Blue，红绿蓝) 是一种加色色彩模型，主要用于屏幕显示。红绿蓝三种颜色的色光叠加就可以得到各种颜色。三色以最大值混合将得到白色。</p>
 <p>在计算机上，RGB 颜色常常使用三个 0~255 数来表示，色彩分量上的数值越大，就意味着合成出颜色中这一色彩的贡献越多。例如，R255 G0 B0 表示红色，R255 G255 B255 表示白色。</p>
-<p>为什么是 255 呢？这是因为 <span>\(2^8 = 256\)</span>，0~255 在计算机上恰好可以用 8 个二进制位来表示。8 个二进制位也就是 1 个字节。每个色彩分量使用 1 个字节，总共有三种原色，也就是说，表示一个颜色需要 3 个字节，也就是 24 个二进制位。这称为“24 位色彩深度”。色彩深度前面的数值越大，表示一种颜色所需要的数据就越多，可以表示的颜色种类也就越多。常见的色彩深度（位深）有 8 位（也就是 256 色）、16 位、24 位和 32 位等。</p>
+<p>为什么是 255 呢？这是因为 <span><span class="MathJax_Preview">2^8 = 256</span><script type="math/tex">2^8 = 256</script></span>，0~255 在计算机上恰好可以用 8 个二进制位来表示。8 个二进制位也就是 1 个字节。每个色彩分量使用 1 个字节，总共有三种原色，也就是说，表示一个颜色需要 3 个字节，也就是 24 个二进制位。这称为“24 位色彩深度”。色彩深度前面的数值越大，表示一种颜色所需要的数据就越多，可以表示的颜色种类也就越多。常见的色彩深度（位深）有 8 位（也就是 256 色）、16 位、24 位和 32 位等。</p>
 <p>于是我们会经常看到颜色用诸如 “#FA321B” 这样的字符串来表示。#字前导符之后每两个字就是一个色彩分量上数值的 16 进制表示。比如 “#FA321B”，它就表示一个红色为 FA（十进制 250），绿色为 32 （十进制 50），蓝色为 1B （十进制 27）的颜色，换成上面提到过的表示就是 R250 G50 B27。</p>
 <h4 id="cmyk">CMYK<a class="headerlink" href="#cmyk" title="Permanent link">&para;</a></h4>
 <p>CMYK (Cyan, Magenta, Yellow, Key，青、品红、黄、黑) 是一种减色色彩模型，主要用于印刷。理论上，青、品红和黄就已经足以得到大多颜色了，那么为什么要加上黑色呢？一方面，使用黑色可以减少其他彩色的使用量，能够节约成本，也可以保证油墨干燥速度。另一方面，由于文字大多是黑色，而套色印刷存在误差，为了防止文字糊掉，用单色来印刷文字是有必要的。</p>
@@ -637,7 +662,7 @@
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
-                  上一篇
+                  后退
                 </span>
                 理解排版
               </span>
@@ -649,7 +674,7 @@
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
-                  下一篇
+                  前进
                 </span>
                 需要知道的一点字体设计
               </span>
@@ -671,9 +696,9 @@
           </div>
         
         powered by
-        <a href="http://www.mkdocs.org" title="MkDocs">MkDocs</a>
+        <a href="http://www.mkdocs.org">MkDocs</a>
         and
-        <a href="http://squidfunk.github.io/mkdocs-material/" title="Material for MkDocs">
+        <a href="https://squidfunk.github.io/mkdocs-material/">
           Material for MkDocs</a>
       </div>
       
@@ -685,26 +710,28 @@
       
     </div>
     
-      <script src="../assets/javascripts/application-c35428f87f.js"></script>
-      
+      <script src="../assets/javascripts/application.6cdc17f0.js"></script>
       
         
-        <script src="../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
         
+          
+          <script src="../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
           
             
-              <script src="../assets/javascripts/lunr/tinyseg.js"></script>
+          
             
-            <script src="../assets/javascripts/lunr/lunr.jp.js"></script>
+              
+                <script src="../assets/javascripts/lunr/tinyseg.js"></script>
+              
+              <script src="../assets/javascripts/lunr/lunr.jp.js"></script>
+            
           
-        
           
-        
-        
-          <script src="../assets/javascripts/lunr/lunr.multi.js"></script>
+            <script src="../assets/javascripts/lunr/lunr.multi.js"></script>
+          
         
       
-      <script>app.initialize({url:{base:".."}})</script>
+      <script>app.initialize({version:"0.17.2",url:{base:".."}})</script>
       
         <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
       
