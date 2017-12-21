@@ -15,11 +15,17 @@ pages:
   - 理解排版: 01-understanding-typesetting.md
   - 需要知道的一点印刷: 02-printing.md
   - 需要知道的一点字体设计: 03-type-design.md
-theme: 'material'
-extra:
+theme:
+  name: 'material'
+  language: 'zh'
   palette:
     primary: 'red'
     accent:  'red'
+  font:
+    text: "Roboto"
+extra:
+  search:
+    language: 'en, jp'
 extra_javascript: 
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 markdown_extensions:
