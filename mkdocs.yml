@@ -2,7 +2,7 @@ site_name: 《竺院人》杂志工作文档
 site_description: '《竺院人》杂志工作文档'
 site_author: 'Celestial Phineas'
 copyright: 'Copyright &copy; 2017 CKCers Magazine Team'
-pages:
+nav:
   - 旧文章: 
     - 《竺院人》杂志内训参考资料01——基础知识: old-articles/training-01.md
     - 《竺院人》杂志内训参考资料02——杂志排版基础: old-articles/training-02.md
