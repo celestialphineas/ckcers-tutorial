@@ -1,84 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
-        
     <url>
-     <loc>/old-articles/training-01/</loc>
-     <lastmod>2017-12-21</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-03-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/old-articles/training-02/</loc>
-     <lastmod>2017-12-21</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-03-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/old-articles/training-03/</loc>
-     <lastmod>2017-12-21</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-03-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/old-articles/training-04/</loc>
-     <lastmod>2017-12-21</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-03-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/old-articles/training-05/</loc>
-     <lastmod>2017-12-21</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-03-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     <url>
-     <loc>/old-articles/microsoft-yahei/</loc>
-     <lastmod>2017-12-21</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-03-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    
-
-    
     <url>
-     <loc>/</loc>
-     <lastmod>2017-12-21</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-03-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/00-basis/</loc>
-     <lastmod>2017-12-21</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-03-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/01-understanding-typesetting/</loc>
-     <lastmod>2017-12-21</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-03-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/02-printing/</loc>
-     <lastmod>2017-12-21</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-03-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
-     <loc>/03-type-design/</loc>
-     <lastmod>2017-12-21</lastmod>
+     <loc>None</loc>
+     <lastmod>2019-03-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
 </urlset>
